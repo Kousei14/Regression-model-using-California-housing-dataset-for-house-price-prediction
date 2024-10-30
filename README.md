@@ -1,4 +1,4 @@
-# Data Analysis and Machine Learning Projects
+# Data Analysis and Machine Learning
 
 Welcome to my repository! This collection features a variety of projects focused on **Exploratory Data Analysis (EDA)** and **Machine Learning**. The topics covered include:
 
