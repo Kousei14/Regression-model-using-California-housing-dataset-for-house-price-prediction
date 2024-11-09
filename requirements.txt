@@ -1,3 +1,7 @@
+# any python version
+
 scikit-learn
 pandas
 numpy
+matplotlib
+seaborn
